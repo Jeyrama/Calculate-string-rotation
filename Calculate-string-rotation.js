@@ -17,3 +17,6 @@ Examples:
   "Esham", "Esham" => 0
   "dog", "god" => -1
 */
+
+
+// Solution
